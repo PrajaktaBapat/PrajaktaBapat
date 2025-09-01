@@ -2,7 +2,7 @@
 
 🎓 **Electronics & Telecommunication (ENTC) Undergrad, graduating in 2027**  
 💡 Passionate about **Embedded Systems | IoT | Digital Design | AI + Electronics Integration**  
-🎯 Goal: **Core Electronics Engineer** → aiming for 6-month paid internship (2026) and a PPO in top companies (₹10–12 LPA)  
+🎯 Goal: **Core Electronics Engineer** → aiming for 6-month paid internship (2026) and a PPO in top companies  
 
 ---
 
